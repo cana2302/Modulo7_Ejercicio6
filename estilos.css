@@ -1,0 +1,33 @@
+body header{
+    background: #ffffff;                     /*Color de fondo portada*/
+    border-bottom: 3px solid rgb(0, 0, 0);   /*Borde de abajo*/  
+}
+
+body header img{
+    width: 4%;                                /*Ancho foto portada*/
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+body h1 {
+    text-align: center;
+}
+
+div {
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+body footer p{
+    display: inline
+}
